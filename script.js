@@ -55,7 +55,7 @@ const events = {
         {
             imageSrc: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.H5gHn8fA8Vgvm24i_WTWJgHaEK%3Fpid%3DApi&f=1&ipt=47640d198726af9288877214dae05c5a107643cbb097964e7685ba3fd5b7e93f&ipo=images',
             title: 'Stockholm ✈️ Köpenhamn 🚅  Malmö',
-            text: 'Nu drar vi hem -->',
+            text: 'Nu drar vi hem.',
             targetDate: '2025-08-24T20:40:00',
         }
     ]
